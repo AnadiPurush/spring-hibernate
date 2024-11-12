@@ -17,4 +17,4 @@ This is a basic setup for a Spring project with Hibernate configuration for data
 ### Prerequisites:
 - Java 11 or higher
 - MySQL database setup
-- Maven or Gradle (depending on your build system)
+- Maven
