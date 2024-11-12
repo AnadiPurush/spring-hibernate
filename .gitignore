@@ -1,0 +1,43 @@
+# Operating System files
+
+Thumbs.db            # Windows
+
+# Logs and database
+*.log
+*.sql
+*.sqlite
+
+# Java class files
+*.class
+
+# Maven  folders
+/target/
+/build/
+
+# Spring and Hibernate configuration
+# Include properties or YAML if configuration files contain sensitive data
+*.properties
+*.yml
+*.yaml
+
+# Sensitive environment variable files
+.env
+
+# IDE settings and metadata
+.idea/
+*.iml
+.vscode/
+
+# Backup and temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Ignore packaged Java artifacts
+*.jar
+*.war
+*.ear
+
+# Generated files
+generated/
